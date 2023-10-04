@@ -1,16 +1,16 @@
-# As a Product Data Scientist at Instagram, measuring the success of the Instagram TV (IGTV) product would involve a combination of quantitative and qualitative metrics to assess its performance and user satisfaction. Here's how I would approach measuring the success of IGTV:
+As a Product Data Scientist at Instagram, measuring the success of the Instagram TV (IGTV) product would involve a combination of quantitative and qualitative metrics to assess its performance and user satisfaction. Here's how I would approach measuring the success of IGTV:
 
-# 1. User Engagement Metrics:
+1. **User Engagement Metrics:**
    - **Viewership**: Measure the number of video views and unique viewers over time. Track how these metrics change after the introduction of new features or content.
    - **Watch Time**: Monitor the total time users spend watching IGTV videos. Increasing watch time indicates that users are finding content engaging.
    - **Retention Rate**: Assess how long users continue to watch a video, especially if they watch more than one video in a session. High retention rates suggest engaging content.
 
-2. Content Metrics:
-   - Content Uploads: Track the number of new videos being uploaded to IGTV. Increasing content uploads can indicate content creators' interest in the platform.
-   - **Content Categories: Analyze which types of content (e.g., tutorials, vlogs, entertainment) perform best and generate the most engagement.
-   - Content Length: Determine if there's an optimal video length that encourages user engagement. Are shorter or longer videos more popular?
+2. **Content Metrics:**
+   - **Content Uploads**: Track the number of new videos being uploaded to IGTV. Increasing content uploads can indicate content creators' interest in the platform.
+   - **Content Categories**: Analyze which types of content (e.g., tutorials, vlogs, entertainment) perform best and generate the most engagement.
+   - **Content Length**: Determine if there's an optimal video length that encourages user engagement. Are shorter or longer videos more popular?
 
-3. User Behavior Metrics:
+3. **User Behavior Metrics:**
    - **Follows and Subscriptions**: Measure how many users are following IGTV content creators or subscribing to channels. This indicates user interest in specific creators or content.
    - **Likes, Comments, and Shares**: Track user interactions with IGTV content, such as liking, commenting, and sharing. High engagement rates suggest a successful product.
 
